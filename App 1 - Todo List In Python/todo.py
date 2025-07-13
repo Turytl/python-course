@@ -22,7 +22,7 @@ while True:
         todos = get_todos("todo.txt")
 
         todos.append(user_action[4:] + "\n")
-for i in
+        
         write_todos("todo.txt", todos)
 
     elif user_action.startswith("show"):
