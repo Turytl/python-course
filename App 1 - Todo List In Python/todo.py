@@ -1,4 +1,8 @@
 import functions
+import time
+
+current_time = time.strftime("%b %d, %Y %H:%M:%S")
+print(f"The time is {current_time}.")
 
 while True:
     user_action = functions.user_action_function()

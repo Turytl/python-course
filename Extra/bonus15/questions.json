@@ -1,0 +1,29 @@
+{
+  questions": [
+    {
+      "que_text": "What is the capital of France?",
+      "choices": ["Berlin", "Madrid", "Paris", "Rome"],
+      "correct": 2
+    },
+    {
+      "que_text": "Which planet is known as the Red Planet?",
+      "choices": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correct": 1
+    },
+    {
+      "que_text": "What is the largest ocean on Earth?",
+      "choices": ["Atlantic", "Indian", "Pacific", "Arctic"],
+      "correct": 2
+    },
+    {
+      "que_text": "Who wrote 'Romeo and Juliet'?",
+      "choices": ["Shakespeare", "Hemingway", "Dickens", "Frost"],
+      "correct": 0
+    },
+    {
+      "que_text": "Which element has the chemical symbol 'O'?",
+      "choices": ["Gold", "Oxygen", "Silver", "Hydrogen"],
+      "correct": 1
+    }
+  ]
+}
